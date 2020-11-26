@@ -8,7 +8,7 @@ console.log("here we gooo agggaaainnn!");
 
 console.log("aaaaand agggaaainnn ferealz!");
 
-import * as THREE from 'https://threejsfundamentals.org/threejs/resources/threejs/r122/build/three.module.js';
+import * as THREE from 'Libs/three.js-master/build/three.module.js';
 
 function main() {
   const canvas = document.querySelector('#c');
