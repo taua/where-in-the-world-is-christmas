@@ -1,1 +1,1 @@
-var parent = opts.parent || console.warn("no parent");
+console.log("I'm loaded in the project yall");
